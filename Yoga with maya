@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>yoga with maya</title>
+    <link rel="stylesheet" href="styles.css"/>
+    </head>
+    <body
+
+    <header class="hero" id="hero">
+    <div class="hero-content">
+        <h1>yoga with maya</h1>
+        <p>Connect your body and mind with mindful yoga practice</p>
+        <a href="#classes" class="btn">Explore a classes</a>   
+    </div>
+    </header>
+     <nav class="navbar">
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#classes">Classes</a></li>
+            <li><a href="#schedule">Schedule</a></li>
+            <li><a href="#contact">Connect</a></li>
+            <li><a href="#testimonials">Testimonials</a></li>       
+        </ul>
+    </nav>
+
+    <section class="gradient2" id="classes">
+        <div class="container">
+          <h2>About Maya</h2>
+        <p>Maya is a certified yoga instructor with over 10 years of experience in teaching various styles of yoga. Her passion is to help others find balance and peace through mindful movement and breath.</p>
+        </div>
+    </section>
+
+    <section class="gradient3" id="classes">
+        <div class="container">
+            <h2>Classes offered</h2>
+            <ul>
+                <li>Hatha Yoga</li>
+                <li>Vinyasa Flow</li>
+                <li>Restorative Yoga</li>
+                <li>Yin Yoga</li>
+                <li>Yoga for Beginners</li>
+            <p>Join our classes to experience the transformative power of yoga. Whether you are a beginner or an experienced yogi, we have something for everyone.</p>
+        </div>
+    </section>
+
+    <section class="gradient4" id="schedule">
+        <div class="container">
+            <h2>Class Schedule</h2>
+            <p>Check our weekly schedule to find a class that fits your routine. Classes are available both online and in-person.</p>
+            <table>
+                <tr>
+                    <th>Day</th>
+                    <th>Time</th>
+                    <th>Class</th>
+                    <th>Location</th>
+                </tr>
+                <tr>
+                    <td>Monday</td>
+                    <td>6:00 AM - 7:00 AM</td>
+                    <td>Hatha Yoga</td>
+                    <td> Studio A</td>
+                </tr>
+                <tr>
+                    <td>Wednesday</td>
+                    <td>6:00 PM - 7:00 PM</td>
+                    <td>Vinyasa Flow</td>
+                    <td> Studio b</td>
+                </tr>
+                <tr>
+                    <td>Friday</td>
+                    <td>6:00 PM - 7:00 PM</td>
+                    <td>Restorative Yoga</td>
+                    <td> Ground Sesssion</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+    <section class="gradient5" id="Testimonials">
+        <div class="container">
+            <h2>Testimonials</h2>
+            <p>"Maya's classes have transformed my life. I feel more connected to my body and mind than ever before!" - Sarah</p>
+            <p>"The best yoga instructor I've ever had! Her classes are both challenging and relaxing." - John</p>
+        </div>
+    </section>
+
+    <section class="gradient6" id="contact">
+        <div class="container">
+            <h2>Connect with Maya</h2>
+            <form id="contactForm">
+            <input type="text" id="name" placeholder="name" required>
+            <input type="email" id="email" placeholder="Email" required>
+            <textarea id="message" placeholder="Your Message" required></textarea>
+            <button type="submit" class="btn">Send Message</button>
+            </form>
+            <p>Follow Maya on social media for daily inspiration and updates:<a href="maya:maya@yogawithmaya.com">maya@yogawithmaya.com</a></p>
+        </div>
+    </section>
+
+    <folder>
+        <p>&copy;2023 Yoga with Maya.All rights reserved.</p>
+    </folder>
+
+    <script src="script.js"></script>
+    </body>
+    </html>
