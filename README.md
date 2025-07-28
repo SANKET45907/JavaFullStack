@@ -34,11 +34,3 @@ JavaScript form validation & alert
 🖥️ Full Previewable Code (HTML + Embedded CSS + JS)
 
 ✅ Copy and paste this into a .html file and open it in any browser:
-
-Output:-
-
-<img width="1920" height="1080" alt="Screenshot 2025-07-26 201311" src="https://github.com/user-attachments/assets/c7f5111a-212b-4d91-bc1a-817d76e5269a" />
-
-<img width="1920" height="1080" alt="Screenshot 2025-07-26 201521" src="https://github.com/user-attachments/assets/dfb26dce-cc76-4d56-be5e-0682e549ae1f" />
-
-
